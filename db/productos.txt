@@ -1,0 +1,3 @@
+img/s4.jpg,Desarrollo, 99.99, Disponible: Este es un ejemplo de como utlizar un archivo plano como fuente de informacion para mostrar en una pagina web.
+img/s4.jpg, Soporte, 50.00, Agotado: Este es un ejemplo de como utlizar un archivo plano como fuente de informacion para mostrar en una pagina web.
+img/s4.jpg, Migraciones 24 pulgadas, 199.90, Disponible: Este es un ejemplo de como utlizar un archivo plano como fuente de informacion para mostrar en una pagina web.

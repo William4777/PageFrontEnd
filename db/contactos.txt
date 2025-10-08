@@ -1,0 +1,3 @@
+Juan Pérez, juanperez@example.com, 3001234567
+Laura Gómez, lauragomez@example.com, 3209876543
+Carlos Ruiz, carlosruiz@example.com, 3017654321
